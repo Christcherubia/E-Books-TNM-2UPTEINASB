@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+body {
+    background-color: antiquewhite;
+    font-family: 'Montserrat', serif;
+    margin: auto;
+    padding: 15px;
+}
+header{
+    background: fixed rgb(109, 109, 109);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-transform: capitalize;
+    color: rgba(212, 212, 212, 0.979);
+    text-shadow: 0.9px 0.9px 0.7px rgba(185, 185, 185, 0.767);
+}
+
+h6 {
+    font-size: 1.2rem;
+    color: rgba(48, 48, 48, 0.76);
+    text-shadow: 0.7px 0.5px 0.3px rgb(34, 34, 34);
+}
